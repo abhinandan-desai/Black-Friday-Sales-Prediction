@@ -5,7 +5,7 @@ and location trends are some of the major factors that help to generate accurate
 also help companies and businesses to plan their future growth and expansion.
 
 This project focuses on creating a system that will conduct regression analysis on sales data of
-Black Friday and try to predict accurate.
+Black Friday and try to predict accurate future sales.
 
 # Applied Regression Methods
 - Ridge Regression
