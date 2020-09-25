@@ -13,3 +13,12 @@ Black Friday and try to predict accurate.
 - Elastic Net Regression
 - Random Forest Regression
 - XGBoost (eXtreme Gradient Boosting) Regression
+
+# Conclusion
+In conclusion, it can be observed that:
+- eXtreme Gradient Boost Regression gives the least RMSE score and hence it performs the best. The reason for this is that the XGBoost uses both linear regression and tree algorithm. 
+- The regression tree models perform better as compared to models using linear regression. 
+- RMSE for the elastic net regression improves after tuning both the parameters - alpha and lambda. 
+- Most of the regression showed that 1, 4 and 7(Gender, City_Category and Product_Category_1) are the best predictors.
+
+## Detailed analysis in m4.pdf ##
